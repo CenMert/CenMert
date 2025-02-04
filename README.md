@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello Everyone!
 
+My name is Cengiz Mert ÖNCE. I live in Istanbul and I'm an engineering student.
+
+- 🌱 I’m currently learning C++, Verilog and Python.
+- 👯 I’m looking to collaborate on games which could be survivals game. I love playing survival games thats why I also love work over them.
+- 📫 How to reach me: 
+  via e-mail: cengizmertonce@gmail.com
 <!--
 **CenMert/CenMert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
